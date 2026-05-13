@@ -122,3 +122,4 @@ ssh -R 80:localhost:8000 nokey@localhost.run
 - `GET /cost/waste-report` - Waste analysis
 - `POST /cost/recommendations` - Optimization tips
 - `GET /cost/dashboard` - Unified dashboard
+# VINAI-Day25-GPU-Finops-cost-optimazation
